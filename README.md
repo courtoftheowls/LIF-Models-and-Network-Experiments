@@ -8,7 +8,7 @@ The project explores both the implementation of numerical integration (Euler’s
 
 🚀 Features
 
-✅ Implemented an LIF neuron class with membrane potential, post-synaptic currents, and spike-time tracking
+✅ Implemented an LIF neuron class with membrane potential, post-synaptic currents, and spike-time tracking \n
 ✅ Built a two-neuron bidirectional network with controlled input spike trains
 ✅ Simulated the network to produce spike raster plots
 ✅ Designed a larger LIF neuron layer with varied input currents and measured firing rates
